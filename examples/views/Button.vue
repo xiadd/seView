@@ -67,6 +67,9 @@
         <se-button>next <i class="right arrow icon"></i></se-button>
       </button-group>
     </div>
+    <div class="ui input fluid focus">
+      <input type="text" placeholder="Search...">
+    </div>
   </div>
 </template>
 

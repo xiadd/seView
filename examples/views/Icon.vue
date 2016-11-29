@@ -2,7 +2,7 @@
   <div class="">
     <div class="icon example">
       <h4 class="ui header">Web Content</h4>
-      <p>Icons can represent types of content found on websites</p>
+      <p>可能有缺漏，具体请看semantic官网</p>
       <div class="ui doubling five column grid">
         <div class="column"><i class="add to calendar icon"></i>Add To Calendar</div>
         <div class="column"><i class="alarm icon icon"></i>Alarm</div>
@@ -74,78 +74,6 @@
         <div class="column"><i class="trophy icon"></i>Trophy</div>
         <div class="column"><i class="wifi icon"></i>Wifi</div>
       </div>
-      <div class="existing code">
-        <i class="add to calendar icon"></i>
-        <i class="alarm outline icon"></i>
-        <i class="alarm mute outline icon"></i>
-        <i class="alarm mute icon"></i>
-        <i class="alarm icon"></i>
-        <i class="at icon"></i>
-        <i class="browser icon"></i>
-        <i class="bug icon"></i>
-        <i class="calendar outline icon"></i>
-        <i class="calendar icon"></i>
-        <i class="checked calendar icon"></i>
-        <i class="cloud icon"></i>
-        <i class="code icon"></i>
-        <i class="comment outline icon"></i>
-        <i class="comment icon"></i>
-        <i class="comments outline icon"></i>
-        <i class="comments icon"></i>
-        <i class="copyright icon"></i>
-        <i class="creative commons icon"></i>
-        <i class="dashboard icon"></i>
-        <i class="delete calendar icon"></i>
-        <i class="external square icon"></i>
-        <i class="external icon"></i>
-        <i class="eyedropper icon"></i>
-        <i class="feed icon"></i>
-        <i class="find icon"></i>
-        <i class="hand pointer icon"></i>
-        <i class="hashtag icon"></i>
-        <i class="heartbeat icon"></i>
-        <i class="history icon"></i>
-        <i class="home icon"></i>
-        <i class="hourglass empty icon"></i>
-        <i class="hourglass end icon"></i>
-        <i class="hourglass full icon"></i>
-        <i class="hourglass half icon"></i>
-        <i class="hourglass start icon"></i>
-        <i class="idea icon"></i>
-        <i class="image icon"></i>
-        <i class="inbox icon"></i>
-        <i class="industry icon"></i>
-        <i class="lab icon"></i>
-        <i class="mail outline icon"></i>
-        <i class="mail square icon"></i>
-        <i class="mail icon"></i>
-        <i class="mouse pointer icon"></i>
-        <i class="options icon"></i>
-        <i class="paint brush icon"></i>
-        <i class="payment icon"></i>
-        <i class="percent icon"></i>
-        <i class="privacy icon"></i>
-        <i class="protect icon"></i>
-        <i class="registered icon"></i>
-        <i class="remove from calendar icon"></i>
-        <i class="search icon"></i>
-        <i class="setting icon"></i>
-        <i class="settings icon"></i>
-        <i class="shop icon"></i>
-        <i class="shopping bag icon"></i>
-        <i class="shopping basket icon"></i>
-        <i class="signal icon"></i>
-        <i class="sitemap icon"></i>
-        <i class="tag icon"></i>
-        <i class="tags icon"></i>
-        <i class="tasks icon"></i>
-        <i class="terminal icon"></i>
-        <i class="text telephone icon"></i>
-        <i class="ticket icon"></i>
-        <i class="trademark icon"></i>
-        <i class="trophy icon"></i>
-        <i class="wifi icon"></i>
-      </div>
     </div>
     <div class="icon example">
       <h4 class="ui header">User Actions</h4>
@@ -210,67 +138,6 @@
         <div class="column"><i class="write icon"></i>Write</div>
         <div class="column"><i class="write square icon"></i>Write Square</div>
       </div>
-      <div class="existing code">
-        <i class="add to cart icon"></i>
-        <i class="add user icon"></i>
-        <i class="adjust icon"></i>
-        <i class="archive icon"></i>
-        <i class="ban icon"></i>
-        <i class="bookmark icon"></i>
-        <i class="call icon"></i>
-        <i class="call square icon"></i>
-        <i class="clone icon"></i>
-        <i class="cloud download icon"></i>
-        <i class="cloud upload icon"></i>
-        <i class="talk icon"></i>
-        <i class="talk outline icon"></i>
-        <i class="compress icon"></i>
-        <i class="configure icon"></i>
-        <i class="download icon"></i>
-        <i class="edit icon"></i>
-        <i class="erase icon"></i>
-        <i class="exchange icon"></i>
-        <i class="expand icon"></i>
-        <i class="external share icon"></i>
-        <i class="filter icon"></i>
-        <i class="hide icon"></i>
-        <i class="in cart icon"></i>
-        <i class="lock icon"></i>
-        <i class="mail forward icon"></i>
-        <i class="object group icon"></i>
-        <i class="object ungroup icon"></i>
-        <i class="pin icon"></i>
-        <i class="print icon"></i>
-        <i class="random icon"></i>
-        <i class="recycle icon"></i>
-        <i class="refresh icon"></i>
-        <i class="remove bookmark icon"></i>
-        <i class="remove user icon"></i>
-        <i class="repeat icon"></i>
-        <i class="reply all icon"></i>
-        <i class="reply icon"></i>
-        <i class="retweet icon"></i>
-        <i class="send icon"></i>
-        <i class="send outline icon"></i>
-        <i class="share alternate icon"></i>
-        <i class="share alternate square icon"></i>
-        <i class="share icon"></i>
-        <i class="share square icon"></i>
-        <i class="sign in icon"></i>
-        <i class="sign out icon"></i>
-        <i class="theme icon"></i>
-        <i class="translate icon"></i>
-        <i class="undo icon"></i>
-        <i class="unhide icon"></i>
-        <i class="unlock alternate icon"></i>
-        <i class="unlock icon"></i>
-        <i class="upload icon"></i>
-        <i class="wait icon"></i>
-        <i class="wizard icon"></i>
-        <i class="write icon"></i>
-        <i class="write square icon"></i>
-      </div>
-    </div>
     <div class="icon example">
       <h4 class="ui header">Message</h4>
       <p>Icons can alert users to the type of message being displayed</p>
@@ -286,17 +153,6 @@
         <div class="column"><i class="warning icon"></i>Warning</div>
         <div class="column"><i class="warning sign icon"></i>Warning Sign</div>
       </div>
-      <div class="existing code">
-        <i class="announcement icon"></i>
-        <i class="birthday: icon"></i>
-        <i class="help circle icon"></i>
-        <i class="help icon"></i>
-        <i class="info circle icon"></i>
-        <i class="info icon"></i>
-        <i class="warning circle icon"></i>
-        <i class="warning icon"></i>
-        <i class="warning sign icon"></i>
-      </div>
     </div>
 
     <div class="icon example">
@@ -310,15 +166,6 @@
         <div class="column"><i class="student icon"></i>Student</div>
         <div class="column"><i class="user icon"></i>User</div>
         <div class="column"><i class="users icon"></i>Users</div>
-      </div>
-      <div class="existing code">
-        <i class="child icon"></i>
-        <i class="doctor icon"></i>
-        <i class="handicap icon"></i>
-        <i class="spy icon"></i>
-        <i class="student icon"></i>
-        <i class="user icon"></i>
-        <i class="users icon"></i>
       </div>
     </div>
 
@@ -342,23 +189,6 @@
         <div class="column"><i class="transgender icon"></i>Transgender</div>
         <div class="column"><i class="woman icon"></i>Woman</div>
       </div>
-      <div class="existing code">
-        <i class="female icon"></i>
-        <i class="gay icon"></i>
-        <i class="genderless icon"></i>
-        <i class="heterosexual icon"></i>
-        <i class="intergender icon"></i>
-        <i class="lesbian icon"></i>
-        <i class="male icon"></i>
-        <i class="man icon"></i>
-        <i class="neuter icon"></i>
-        <i class="non binary transgender icon"></i>
-        <i class="other gender horizontal icon"></i>
-        <i class="other gender icon"></i>
-        <i class="other gender vertical icon"></i>
-        <i class="transgender icon"></i>
-        <i class="woman icon"></i>
-      </div>
     </div>
 
     <div class="icon example">
@@ -374,17 +204,6 @@
         <div class="column"><i class="resize vertical icon"></i>Resize Vertical</div>
         <div class="column"><i class="zoom icon"></i>Zoom</div>
         <div class="column"><i class="zoom out icon"></i>Zoom Out</div>
-      </div>
-      <div class="existing code">
-        <i class="block layout icon"></i>
-        <i class="crop icon"></i>
-        <i class="grid layout icon"></i>
-        <i class="list layout icon"></i>
-        <i class="maximize icon"></i>
-        <i class="resize horizontal icon"></i>
-        <i class="resize vertical icon"></i>
-        <i class="zoom icon"></i>
-        <i class="zoom out icon"></i>
       </div>
     </div>
 
@@ -438,52 +257,6 @@
         <div class="column"><i class="umbrella icon"></i>Umbrella</div>
         <div class="column"><i class="world icon"></i>World</div>
       </div>
-      <div class="existing code">
-        <i class="anchor icon"></i>
-        <i class="bar icon"></i>
-        <i class="bomb icon"></i>
-        <i class="book icon"></i>
-        <i class="bullseye icon"></i>
-        <i class="calculator icon"></i>
-        <i class="cocktail icon"></i>
-        <i class="diamond icon"></i>
-        <i class="fax icon"></i>
-        <i class="fire extinguisher icon"></i>
-        <i class="fire icon"></i>
-        <i class="flag checkered icon"></i>
-        <i class="flag icon"></i>
-        <i class="flag outline icon"></i>
-        <i class="gift icon"></i>
-        <i class="hand lizard icon"></i>
-        <i class="hand peace icon"></i>
-        <i class="hand paper icon"></i>
-        <i class="hand rock icon"></i>
-        <i class="hand scissors icon"></i>
-        <i class="hand spock icon"></i>
-        <i class="law icon"></i>
-        <i class="leaf icon"></i>
-        <i class="legal icon"></i>
-        <i class="lemon icon"></i>
-        <i class="life ring icon"></i>
-        <i class="lightning icon"></i>
-        <i class="magnet icon"></i>
-        <i class="money icon"></i>
-        <i class="moon icon"></i>
-        <i class="plane icon"></i>
-        <i class="puzzle icon"></i>
-        <i class="road icon"></i>
-        <i class="rocket icon"></i>
-        <i class="shipping icon"></i>
-        <i class="soccer icon"></i>
-        <i class="sticky note icon"></i>
-        <i class="sticky note outline icon"></i>
-        <i class="suitcase icon"></i>
-        <i class="sun icon"></i>
-        <i class="travel icon"></i>
-        <i class="treatment icon"></i>
-        <i class="umbrella icon"></i>
-        <i class="world icon"></i>
-      </div>
     </div>
 
     <div class="icon example">
@@ -505,23 +278,6 @@
         <div class="column"><i class="spinner icon"></i>Spinner</div>
         <div class="column"><i class="square icon"></i>Square</div>
         <div class="column"><i class="square outline icon"></i>Square Outline</div>
-      </div>
-      <div class="existing code">
-        <i class="asterisk icon"></i>
-        <i class="certificate icon"></i>
-        <i class="circle icon"></i>
-        <i class="circle notched icon"></i>
-        <i class="circle thin icon"></i>
-        <i class="crosshairs icon"></i>
-        <i class="cube icon"></i>
-        <i class="cubes icon"></i>
-        <i class="ellipsis horizontal icon"></i>
-        <i class="ellipsis vertical icon"></i>
-        <i class="quote left icon"></i>
-        <i class="quote right icon"></i>
-        <i class="spinner icon"></i>
-        <i class="square icon"></i>
-        <i class="square outline icon"></i>
       </div>
     </div>
 
@@ -551,29 +307,6 @@
         <div class="column"><i class="toggle off icon"></i>Toggle Off</div>
         <div class="column"><i class="toggle on icon"></i>Toggle On</div>
       </div>
-      <div class="existing code">
-        <i class="add circle icon"></i>
-        <i class="add square icon"></i>
-        <i class="check circle icon"></i>
-        <i class="check circle outline icon"></i>
-        <i class="check square icon"></i>
-        <i class="checkmark box icon"></i>
-        <i class="checkmark icon"></i>
-        <i class="minus circle icon"></i>
-        <i class="minus icon"></i>
-        <i class="minus square icon"></i>
-        <i class="minus square outline icon"></i>
-        <i class="move icon"></i>
-        <i class="plus icon"></i>
-        <i class="plus square outline icon"></i>
-        <i class="radio icon"></i>
-        <i class="remove circle icon"></i>
-        <i class="remove circle outline icon"></i>
-        <i class="remove icon"></i>
-        <i class="selected radio icon"></i>
-        <i class="toggle off icon"></i>
-        <i class="toggle on icon"></i>
-      </div>
     </div>
 
     <div class="icon example">
@@ -589,17 +322,6 @@
         <div class="column"><i class="photo icon"></i>Photo</div>
         <div class="column"><i class="pie chart icon"></i>Pie Chart</div>
         <div class="column"><i class="sound icon"></i>Sound</div>
-      </div>
-      <div class="existing code">
-        <i class="area chart icon"></i>
-        <i class="bar chart icon"></i>
-        <i class="camera retro icon"></i>
-        <i class="film icon"></i>
-        <i class="line chart icon"></i>
-        <i class="newspaper icon"></i>
-        <i class="photo icon"></i>
-        <i class="pie chart icon"></i>
-        <i class="sound icon"></i>
       </div>
     </div>
 
@@ -653,52 +375,6 @@
         <div class="column"><i class="toggle right icon"></i>Toggle Right</div>
         <div class="column"><i class="toggle up icon"></i>Toggle Up</div>
       </div>
-      <div class="existing code">
-        <i class="angle double down icon"></i>
-        <i class="angle double left icon"></i>
-        <i class="angle double right icon"></i>
-        <i class="angle double up icon"></i>
-        <i class="angle down icon"></i>
-        <i class="angle left icon"></i>
-        <i class="angle right icon"></i>
-        <i class="angle up icon"></i>
-        <i class="arrow circle down icon"></i>
-        <i class="arrow circle left icon"></i>
-        <i class="arrow circle outline down icon"></i>
-        <i class="arrow circle outline left icon"></i>
-        <i class="arrow circle outline right icon"></i>
-        <i class="arrow circle outline up icon"></i>
-        <i class="arrow circle right icon"></i>
-        <i class="arrow circle up icon"></i>
-        <i class="arrow down icon"></i>
-        <i class="arrow left icon"></i>
-        <i class="arrow right icon"></i>
-        <i class="arrow up icon"></i>
-        <i class="caret down icon"></i>
-        <i class="caret left icon"></i>
-        <i class="caret right icon"></i>
-        <i class="caret up icon"></i>
-        <i class="chevron circle down icon"></i>
-        <i class="chevron circle left icon"></i>
-        <i class="chevron circle right icon"></i>
-        <i class="chevron circle up icon"></i>
-        <i class="chevron down icon"></i>
-        <i class="chevron left icon"></i>
-        <i class="chevron right icon"></i>
-        <i class="chevron up icon"></i>
-        <i class="long arrow down icon"></i>
-        <i class="long arrow left icon"></i>
-        <i class="long arrow right icon"></i>
-        <i class="long arrow up icon"></i>
-        <i class="pointing down icon"></i>
-        <i class="pointing left icon"></i>
-        <i class="pointing right icon"></i>
-        <i class="pointing up icon"></i>
-        <i class="toggle down icon"></i>
-        <i class="toggle left icon"></i>
-        <i class="toggle right icon"></i>
-        <i class="toggle up icon"></i>
-      </div>
     </div>
     <div class="icon example">
       <h4 class="ui header">Mobile</h4>
@@ -710,14 +386,6 @@
         <div class="column"><i class="battery full icon"></i>Battery Full</div>
         <div class="column"><i class="battery low icon"></i>Battery Low</div>
         <div class="column"><i class="battery medium icon"></i>Battery Medium</div>
-      </div>
-      <div class="existing code">
-        <i class="mobile icon"></i>
-        <i class="tablet icon"></i>
-        <i class="battery empty icon"></i>
-        <i class="battery full icon"></i>
-        <i class="battery low icon"></i>
-        <i class="battery medium icon"></i>
       </div>
     </div>
     <div class="icon example">
@@ -732,16 +400,6 @@
         <div class="column"><i class="laptop icon"></i>Laptop</div>
         <div class="column"><i class="plug icon"></i>Plug</div>
         <div class="column"><i class="power icon"></i>Power</div>
-      </div>
-      <div class="existing code">
-        <i class="desktop icon"></i>
-        <i class="disk outline icon"></i>
-        <i class="game icon"></i>
-        <i class="high battery icon"></i>
-        <i class="keyboard icon"></i>
-        <i class="laptop icon"></i>
-        <i class="plug icon"></i>
-        <i class="power icon"></i>
       </div>
     </div>
     <div class="icon example">
@@ -770,29 +428,6 @@
         <div class="column"><i class="trash icon"></i>Trash</div>
         <div class="column"><i class="trash outline icon"></i>Trash Outline</div>
       </div>
-      <div class="existing code">
-        <i class="file archive outline icon"></i>
-        <i class="file audio outline icon"></i>
-        <i class="file code outline icon"></i>
-        <i class="file excel outline icon"></i>
-        <i class="file icon"></i>
-        <i class="file image outline icon"></i>
-        <i class="file outline icon"></i>
-        <i class="file pdf outline icon"></i>
-        <i class="file powerpoint outline icon"></i>
-        <i class="file text icon"></i>
-        <i class="file text outline icon"></i>
-        <i class="file video outline icon"></i>
-        <i class="file word outline icon"></i>
-        <i class="folder icon"></i>
-        <i class="folder open icon"></i>
-        <i class="folder open outline icon"></i>
-        <i class="folder outline icon"></i>
-        <i class="level down icon"></i>
-        <i class="level up icon"></i>
-        <i class="trash icon"></i>
-        <i class="trash outline icon"></i>
-      </div>
     </div>
 
     <div class="icon example">
@@ -813,21 +448,6 @@
         <div class="column"><i class="server icon"></i>Server</div>
         <div class="column"><i class="usb icon"></i>Usb</div>
       </div>
-      <div class="existing code">
-        <i class="barcode icon"></i>
-        <i class="bluetooth alternative icon"></i>
-        <i class="bluetooth icon"></i>
-        <i class="css3 icon"></i>
-        <i class="database icon"></i>
-        <i class="fork icon"></i>
-        <i class="html5 icon"></i>
-        <i class="openid icon"></i>
-        <i class="qrcode icon"></i>
-        <i class="rss icon"></i>
-        <i class="rss square icon"></i>
-        <i class="server icon"></i>
-        <i class="usb icon"></i>
-      </div>
     </div>
 
     <div class="icon example">
@@ -847,21 +467,6 @@
         <div class="column"><i class="thumbs outline down icon"></i>Thumbs Outline Down</div>
         <div class="column"><i class="thumbs outline up icon"></i>Thumbs Outline Up</div>
         <div class="column"><i class="thumbs up icon"></i>Thumbs Up</div>
-      </div>
-      <div class="existing code">
-        <i class="empty heart icon"></i>
-        <i class="empty star icon"></i>
-        <i class="frown icon"></i>
-        <i class="heart icon"></i>
-        <i class="meh icon"></i>
-        <i class="smile icon"></i>
-        <i class="star half empty icon"></i>
-        <i class="star half icon"></i>
-        <i class="star icon"></i>
-        <i class="thumbs down icon"></i>
-        <i class="thumbs outline down icon"></i>
-        <i class="thumbs outline up icon"></i>
-        <i class="thumbs up icon"></i>
       </div>
     </div>
 
@@ -893,32 +498,6 @@
         <div class="column"><i class="volume down icon"></i>Volume Down</div>
         <div class="column"><i class="volume off icon"></i>Volume Off</div>
         <div class="column"><i class="volume up icon"></i>Volume Up</div>
-      </div>
-      <div class="existing code">
-        <i class="backward icon"></i>
-        <i class="closed captioning icon"></i>
-        <i class="eject icon"></i>
-        <i class="fast backward icon"></i>
-        <i class="fast forward icon"></i>
-        <i class="forward icon"></i>
-        <i class="music icon"></i>
-        <i class="mute icon"></i>
-        <i class="pause circle icon"></i>
-        <i class="pause circle outline icon"></i>
-        <i class="pause icon"></i>
-        <i class="play icon"></i>
-        <i class="record icon"></i>
-        <i class="step backward icon"></i>
-        <i class="step forward icon"></i>
-        <i class="stop circle icon"></i>
-        <i class="stop circle outline icon"></i>
-        <i class="stop icon"></i>
-        <i class="unmute icon"></i>
-        <i class="video play icon"></i>
-        <i class="video play outline icon"></i>
-        <i class="volume down icon"></i>
-        <i class="volume off icon"></i>
-        <i class="volume up icon"></i>
       </div>
     </div>
 
@@ -959,40 +538,6 @@
         <div class="column"><i class="tree icon"></i>Tree</div>
         <div class="column"><i class="university icon"></i>University</div>
       </div>
-      <div class="existing code">
-        <i class="bicycle icon"></i>
-        <i class="building icon"></i>
-        <i class="building outline icon"></i>
-        <i class="bus icon"></i>
-        <i class="car icon"></i>
-        <i class="coffee icon"></i>
-        <i class="compass icon"></i>
-        <i class="emergency icon"></i>
-        <i class="first aid icon"></i>
-        <i class="food icon"></i>
-        <i class="h icon"></i>
-        <i class="hospital icon"></i>
-        <i class="hotel icon"></i>
-        <i class="location arrow icon"></i>
-        <i class="map icon"></i>
-        <i class="map outline icon"></i>
-        <i class="map pin icon"></i>
-        <i class="map signs icon"></i>
-        <i class="marker icon"></i>
-        <i class="military icon"></i>
-        <i class="motorcycle icon"></i>
-        <i class="paw icon"></i>
-        <i class="ship icon"></i>
-        <i class="space shuttle icon"></i>
-        <i class="spoon icon"></i>
-        <i class="street view icon"></i>
-        <i class="subway icon"></i>
-        <i class="taxi icon"></i>
-        <i class="train icon"></i>
-        <i class="television icon"></i>
-        <i class="tree icon"></i>
-        <i class="university icon"></i>
-      </div>
     </div>
 
     <div class="icon example">
@@ -1010,19 +555,6 @@
         <div class="column"><i class="sort numeric ascending icon"></i>Sort Numeric Ascending</div>
         <div class="column"><i class="sort numeric descending icon"></i>Sort Numeric Descending</div>
         <div class="column"><i class="table icon"></i>Table</div>
-      </div>
-      <div class="existing code">
-        <i class="columns icon"></i>
-        <i class="sort alphabet ascending icon"></i>
-        <i class="sort alphabet descending icon"></i>
-        <i class="sort ascending icon"></i>
-        <i class="sort content ascending icon"></i>
-        <i class="sort content descending icon"></i>
-        <i class="sort descending icon"></i>
-        <i class="sort icon"></i>
-        <i class="sort numeric ascending icon"></i>
-        <i class="sort numeric descending icon"></i>
-        <i class="table icon"></i>
       </div>
     </div>
 
@@ -1060,37 +592,6 @@
         <div class="column"><i class="unlinkify icon"></i>Unlinkify</div>
         <div class="column"><i class="unordered list icon"></i>Unordered List</div>
       </div>
-      <div class="existing code">
-        <i class="align center icon"></i>
-        <i class="align justify icon"></i>
-        <i class="align left icon"></i>
-        <i class="align right icon"></i>
-        <i class="attach icon"></i>
-        <i class="bold icon"></i>
-        <i class="content icon"></i>
-        <i class="copy icon"></i>
-        <i class="cut icon"></i>
-        <i class="font icon"></i>
-        <i class="header icon"></i>
-        <i class="indent icon"></i>
-        <i class="italic icon"></i>
-        <i class="linkify icon"></i>
-        <i class="list icon"></i>
-        <i class="ordered list icon"></i>
-        <i class="outdent icon"></i>
-        <i class="paragraph icon"></i>
-        <i class="paste icon"></i>
-        <i class="save icon"></i>
-        <i class="strikethrough icon"></i>
-        <i class="subscript icon"></i>
-        <i class="superscript icon"></i>
-        <i class="text cursor icon"></i>
-        <i class="text height icon"></i>
-        <i class="text width icon"></i>
-        <i class="underline icon"></i>
-        <i class="unlinkify icon"></i>
-        <i class="unordered list icon"></i>
-      </div>
     </div>
 
     <div class="icon example">
@@ -1107,18 +608,6 @@
         <div class="column"><i class="shekel icon"></i>Shekel</div>
         <div class="column"><i class="won icon"></i>Won</div>
         <div class="column"><i class="yen icon"></i>Yen</div>
-      </div>
-      <div class="existing code">
-        <i class="bitcoin icon"></i>
-        <i class="dollar icon"></i>
-        <i class="euro icon"></i>
-        <i class="lira icon"></i>
-        <i class="pound icon"></i>
-        <i class="ruble icon"></i>
-        <i class="rupee icon"></i>
-        <i class="shekel icon"></i>
-        <i class="won icon"></i>
-        <i class="yen icon"></i>
       </div>
     </div>
 
@@ -1139,19 +628,6 @@
         <div class="column"><i class="stripe icon"></i>Stripe</div>
         <div class="column"><i class="visa icon"></i>Visa</div>
       </div>
-      <div class="existing code">
-        <i class="american express icon"></i>
-        <i class="credit card alternative icon"></i>
-        <i class="diners club icon"></i>
-        <i class="discover icon"></i>
-        <i class="google wallet icon"></i>
-        <i class="japan credit bureau icon"></i>
-        <i class="mastercard icon"></i>
-        <i class="paypal card icon"></i>
-        <i class="paypal icon"></i>
-        <i class="stripe icon"></i>
-        <i class="visa icon"></i>
-      </div>
     </div>
     <div class="icon example">
       <h4 class="ui header">Accessibility</h4>
@@ -1168,19 +644,6 @@
         <div class="column"><i class="sign language icon"></i>Sign Language</div>
         <div class="column"><i class="universal access icon"></i>Universal Access</div>
         <div class="column"><i class="volume control phone icon"></i>Volume Control Phone</div>
-      </div>
-      <div class="existing code">
-        <i class="wheelchair icon"></i>
-        <i class="asl interpreting icon"></i>
-        <i class="assistive listening systems icon"></i>
-        <i class="audio description icon"></i>
-        <i class="blind icon"></i>
-        <i class="braille icon"></i>
-        <i class="deafness icon"></i>
-        <i class="low vision icon"></i>
-        <i class="sign language icon"></i>
-        <i class="universal access icon"></i>
-        <i class="volume control phone icon"></i>
       </div>
     </div>
 
@@ -1334,153 +797,6 @@
         <div class="column"><i class="youtube icon"></i>Youtube</div>
         <div class="column"><i class="youtube play icon"></i>Youtube Play</div>
         <div class="column"><i class="youtube square icon"></i>Youtube Square</div>
-      </div>
-      <div class="existing code">
-        <i class="500px icon"></i>
-        <i class="adn icon"></i>
-        <i class="amazon icon"></i>
-        <i class="android icon"></i>
-        <i class="angellist icon"></i>
-        <i class="apple icon"></i>
-        <i class="behance icon"></i>
-        <i class="behance square icon"></i>
-        <i class="bitbucket icon"></i>
-        <i class="bitbucket square icon"></i>
-        <i class="black tie icon"></i>
-        <i class="buysellads icon"></i>
-        <i class="chrome icon"></i>
-        <i class="codepen icon"></i>
-        <i class="codiepie icon"></i>
-        <i class="connectdevelop icon"></i>
-        <i class="contao icon"></i>
-        <i class="dashcube icon"></i>
-        <i class="delicious icon"></i>
-        <i class="deviantart icon"></i>
-        <i class="digg icon"></i>
-        <i class="dribbble icon"></i>
-        <i class="dropbox icon"></i>
-        <i class="drupal icon"></i>
-        <i class="empire icon"></i>
-        <i class="envira gallery icon"></i>
-        <i class="expeditedssl icon"></i>
-        <i class="facebook icon"></i>
-        <i class="facebook f icon"></i>
-        <i class="facebook square icon"></i>
-        <i class="firefox icon"></i>
-        <i class="first order icon"></i>
-        <i class="flickr icon"></i>
-        <i class="font awesome icon"></i>
-        <i class="fonticons icon"></i>
-        <i class="fort awesome icon"></i>
-        <i class="forumbee icon"></i>
-        <i class="foursquare icon"></i>
-        <i class="gg icon"></i>
-        <i class="gg circle icon"></i>
-        <i class="git icon"></i>
-        <i class="git square icon"></i>
-        <i class="github icon"></i>
-        <i class="github alternate icon"></i>
-        <i class="github square icon"></i>
-        <i class="gitlab icon"></i>
-        <i class="gittip icon"></i>
-        <i class="glide icon"></i>
-        <i class="glide g icon"></i>
-        <i class="google icon"></i>
-        <i class="google plus icon"></i>
-        <i class="google plus circle icon"></i>
-        <i class="google plus square icon"></i>
-        <i class="hacker news icon"></i>
-        <i class="houzz icon"></i>
-        <i class="instagram icon"></i>
-        <i class="internet explorer icon"></i>
-        <i class="ioxhost icon"></i>
-        <i class="joomla icon"></i>
-        <i class="jsfiddle icon"></i>
-        <i class="lastfm icon"></i>
-        <i class="lastfm square icon"></i>
-        <i class="leanpub icon"></i>
-        <i class="linkedin icon"></i>
-        <i class="linkedin square icon"></i>
-        <i class="linux icon"></i>
-        <i class="maxcdn icon"></i>
-        <i class="meanpath icon"></i>
-        <i class="medium icon"></i>
-        <i class="microsoft edge icon"></i>
-        <i class="mixcloud icon"></i>
-        <i class="modx icon"></i>
-        <i class="odnoklassniki icon"></i>
-        <i class="odnoklassniki square icon"></i>
-        <i class="opencart icon"></i>
-        <i class="opera icon"></i>
-        <i class="optinmonster icon"></i>
-        <i class="pagelines icon"></i>
-        <i class="pied piper icon"></i>
-        <i class="pied piper alternate icon"></i>
-        <i class="pied piper hat icon"></i>
-        <i class="pinterest icon"></i>
-        <i class="pinterest icon"></i>
-        <i class="pinterest square icon"></i>
-        <i class="pocket icon"></i>
-        <i class="product hunt icon"></i>
-        <i class="qq icon"></i>
-        <i class="rebel icon"></i>
-        <i class="reddit icon"></i>
-        <i class="reddit alien icon"></i>
-        <i class="reddit square icon"></i>
-        <i class="renren icon"></i>
-        <i class="safari icon"></i>
-        <i class="scribd icon"></i>
-        <i class="sellsy icon"></i>
-        <i class="shirtsinbulk icon"></i>
-        <i class="simplybuilt icon"></i>
-        <i class="skyatlas icon"></i>
-        <i class="skype icon"></i>
-        <i class="slack icon"></i>
-        <i class="slideshare icon"></i>
-        <i class="snapchat icon"></i>
-        <i class="snapchat ghost icon"></i>
-        <i class="snapchat square icon"></i>
-        <i class="soundcloud icon"></i>
-        <i class="spotify icon"></i>
-        <i class="stack exchange icon"></i>
-        <i class="stack overflow icon"></i>
-        <i class="steam icon"></i>
-        <i class="steam square icon"></i>
-        <i class="stumbleupon icon"></i>
-        <i class="stumbleupon circle icon"></i>
-        <i class="tencent weibo icon"></i>
-        <i class="themeisle icon"></i>
-        <i class="trello icon"></i>
-        <i class="tripadvisor icon"></i>
-        <i class="tumblr icon"></i>
-        <i class="tumblr square icon"></i>
-        <i class="twitch icon"></i>
-        <i class="twitter icon"></i>
-        <i class="twitter square icon"></i>
-        <i class="viacoin icon"></i>
-        <i class="viadeo icon"></i>
-        <i class="viadeo square icon"></i>
-        <i class="vimeo icon"></i>
-        <i class="vimeo square icon"></i>
-        <i class="vine icon"></i>
-        <i class="vk icon"></i>
-        <i class="wechat icon"></i>
-        <i class="weibo icon"></i>
-        <i class="whatsapp icon"></i>
-        <i class="wikipedia icon"></i>
-        <i class="windows icon"></i>
-        <i class="wordpress icon"></i>
-        <i class="wpbeginner icon"></i>
-        <i class="wpforms icon"></i>
-        <i class="xing icon"></i>
-        <i class="xing square icon"></i>
-        <i class="y combinator icon"></i>
-        <i class="yahoo icon"></i>
-        <i class="yelp icon"></i>
-        <i class="yoast icon"></i>
-        <i class="youtube icon"></i>
-        <i class="youtube play icon"></i>
-        <i class="youtube square icon"></i>
       </div>
     </div>
   </div>
