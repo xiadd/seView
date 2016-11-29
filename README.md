@@ -1,7 +1,7 @@
 # se-view
 
 > semantic-ui vue组件
-
+![](http://ww4.sinaimg.cn/large/c48ad509gw1fa94a1ahv1j20zg0fxmz9.jpg)
 ## Build Setup
 
 ``` bash
@@ -14,5 +14,6 @@ npm run dev
 # build for production with minification
 npm run build
 ```
+
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
