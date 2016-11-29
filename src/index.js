@@ -1,7 +1,8 @@
-import Button from 'components/button'
+import { Button, ButtonGroup } from 'components/button'
 
 const seView = {
-  SeButton: Button
+  SeButton: Button,
+  ButtonGroup
 }
 
 const install = function (Vue) {

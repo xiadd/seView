@@ -44,12 +44,28 @@
       <se-button size="large">large</se-button>
       <se-button size="big">big</se-button>
       <se-button size="huge">huge</se-button>
-      <se-button size="massive">massive</se-button>
+      <se-button size="massive" type="pink">massive</se-button>
     </div>
     <div class="show-button">
       <h4>图标按钮：</h4>
       <se-button icon="cloud"></se-button>
       <se-button type="blue" icon="cloud">cloud</se-button>
+    </div>
+    <div class="show-button">
+      <h4>加载中的按钮：</h4>
+      <se-button type="blue" icon="cloud" :loading="true">cloud</se-button>
+    </div>
+    <div class="show-button">
+      <h4>按钮组</h4>
+      <button-group>
+        <se-button icon="cloud" type="blue"></se-button>
+        <se-button>2</se-button>
+        <se-button>3</se-button>
+      </button-group>
+      <button-group>
+        <se-button icon="left arrow">prev</se-button>
+        <se-button>next <i class="right arrow icon"></i></se-button>
+      </button-group>
     </div>
   </div>
 </template>

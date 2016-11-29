@@ -1,2 +1,7 @@
 import Button from './button.vue'
-export default Button
+import ButtonGroup from './button-group.vue'
+
+module.exports = {
+  Button,
+  ButtonGroup
+}

@@ -14,7 +14,8 @@ export default {
       default: false
     },
     size: String,
-    icon: String
+    icon: String,
+    loading: false
   },
   computed: {
     classes() {
@@ -22,6 +23,7 @@ export default {
         this.type ? this.type : '',
         this.size ? this.size : '',
         this.icon ? 'icon' : '',
+        this.loading ? 'loading' : '',
         {
           'basic': this.plain
         }
