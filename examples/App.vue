@@ -1,5 +1,10 @@
 <template>
   <div id="app">
+    <div class="nav">
+      <se-button :plain="true" @click.native="navicate">icon</se-button>
+      <se-button :plain="true" type="blue" @click.native="navicate">button</se-button>
+      <se-button :plain="true" @click.native="navicate">grid</se-button>
+    </div>
     <h1>{{$route.path.slice(1)}}</h1>
     <router-view></router-view>
   </div>
@@ -7,7 +12,12 @@
 
 <script>
 export default {
-  name: 'app'
+  name: 'app',
+  methods: {
+    navicate (e) {
+      this.$router.push({path: '/' + e.target.innerText})
+    }
+  }
 }
 </script>
 

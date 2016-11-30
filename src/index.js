@@ -1,8 +1,11 @@
 import { Button, ButtonGroup } from 'components/button'
+import { Row, Col } from 'components/layout'
 
 const seView = {
   SeButton: Button,
-  ButtonGroup
+  ButtonGroup,
+  Row,
+  SeCol: Col
 }
 
 const install = function (Vue) {

@@ -1,5 +1,5 @@
 <template>
-  <div class="">
+  <div class="ui container">
     <div class="icon example">
       <h4 class="ui header">Web Content</h4>
       <p>可能有缺漏，具体请看semantic官网</p>
