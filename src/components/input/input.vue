@@ -4,7 +4,7 @@
       <slot name="prepend"></slot>
     </div>
     <i class="icon" :class="icon" v-if="icon"></i>
-    <input type="text" :placeholder="placeholder" :value="value">
+    <input type="text" :placeholder="placeholder" :value="value" @input="updateValue($event.target.value)">
     <div class="ui label" v-if="label&&$slots.append">
       <slot name="append"></slot>
     </div>
@@ -28,6 +28,11 @@ export default {
     iconPosition: String,
     size: String,
     label: Boolean,
+  },
+  methods: {
+    updateValue(value) {
+      this.$emit('input', value)
+    }
   },
   computed: {
     classes() {

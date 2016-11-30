@@ -3,6 +3,7 @@ import { Row, Col } from 'components/layout'
 import Tag from 'components/tag'
 import Divider from 'components/divider'
 import Input from 'components/input'
+import Alert from 'components/alert'
 
 const seView = {
   SeButton: Button,
@@ -11,7 +12,8 @@ const seView = {
   SeCol: Col,
   SeTag: Tag,
   SeDivider: Divider,
-  SeInput: Input
+  SeInput: Input,
+  SeAlert: Alert
 }
 
 const install = function (Vue) {

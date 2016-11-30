@@ -14,13 +14,16 @@ import Input from 'views/Input.vue'
 import Tag from 'views/Tag.vue'
 import Divider from 'views/Divider.vue'
 
+import Alert from 'views/Alert.vue'
+
 let routes = [
   { path: '/button', component: Button },
   { path: '/icon', component: Icon },
   { path: '/grid', component: Grid },
   { path: '/input', component: Input },
   { path: '/tag', component: Tag },
-  { path: '/divider', component: Divider }
+  { path: '/divider', component: Divider },
+  { path: '/alert', component: Alert }
 ]
 
 let router = new VueRouter({
