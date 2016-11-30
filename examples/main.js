@@ -10,11 +10,17 @@ Vue.use(seView)
 import Button from 'views/Button.vue'
 import Icon from 'views/Icon.vue'
 import Grid from 'views/Grid.vue'
+import Input from 'views/Input.vue'
+import Tag from 'views/Tag.vue'
+import Divider from 'views/Divider.vue'
 
 let routes = [
   { path: '/button', component: Button },
   { path: '/icon', component: Icon },
-  { path: '/grid', component: Grid }
+  { path: '/grid', component: Grid },
+  { path: '/input', component: Input },
+  { path: '/tag', component: Tag },
+  { path: '/divider', component: Divider }
 ]
 
 let router = new VueRouter({

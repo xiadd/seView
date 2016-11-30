@@ -1,11 +1,17 @@
 import { Button, ButtonGroup } from 'components/button'
 import { Row, Col } from 'components/layout'
+import Tag from 'components/tag'
+import Divider from 'components/divider'
+import Input from 'components/input'
 
 const seView = {
   SeButton: Button,
   ButtonGroup,
   Row,
-  SeCol: Col
+  SeCol: Col,
+  SeTag: Tag,
+  SeDivider: Divider,
+  SeInput: Input
 }
 
 const install = function (Vue) {

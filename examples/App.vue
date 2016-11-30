@@ -2,8 +2,11 @@
   <div id="app">
     <div class="nav">
       <se-button :plain="true" @click.native="navicate">icon</se-button>
-      <se-button :plain="true" type="blue" @click.native="navicate">button</se-button>
+      <se-button :plain="true" @click.native="navicate">button</se-button>
       <se-button :plain="true" @click.native="navicate">grid</se-button>
+      <se-button :plain="true" @click.native="navicate">input</se-button>
+      <se-button :plain="true" @click.native="navicate">tag</se-button>
+      <se-button :plain="true" @click.native="navicate">divider</se-button>
     </div>
     <h1>{{$route.path.slice(1)}}</h1>
     <router-view></router-view>
