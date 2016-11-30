@@ -4,7 +4,7 @@
       <slot name="prepend"></slot>
     </div>
     <i class="icon" :class="icon" v-if="icon"></i>
-    <input type="text" :placeholder="placeholder">
+    <input type="text" :placeholder="placeholder" :value="value">
     <div class="ui label" v-if="label&&$slots.append">
       <slot name="append"></slot>
     </div>
@@ -14,6 +14,7 @@
 <script>
 export default {
   props: {
+    value: String,
     placeholder: String,
     block: {
       type: Boolean,

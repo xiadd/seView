@@ -38,15 +38,19 @@
     <se-input placeholder="search" :label="true">
       <template slot="prepend">https://</template>
     </se-input>
-    <se-input placeholder="search" :label="true">
-      <template slot="append">.com</template>
+    <se-input placeholder="search" :label="true" v-model="input">
+      <template slot="append">{{input}}</template>
     </se-input>
   </div>
 </template>
 
 <script>
 export default {
-
+  data() {
+    return {
+      input: ''
+    }
+  }
 }
 </script>
 
