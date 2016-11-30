@@ -20,6 +20,7 @@
       <se-button :plain="true" @click.native="navicate">alert</se-button>
       <se-button :plain="true" @click.native="navicate">message</se-button>
       <se-button :plain="true" @click.native="navicate">notice</se-button>
+      <se-button :plain="true" @click.native="navicate">tooltip</se-button>
     </div>
     <h1>{{$route.path.slice(1)}}</h1>
     <router-view></router-view>

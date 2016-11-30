@@ -15,6 +15,7 @@ import Tag from 'views/Tag.vue'
 import Divider from 'views/Divider.vue'
 
 import Alert from 'views/Alert.vue'
+import Tooltip from 'views/Tooltip.vue'
 
 let routes = [
   { path: '/button', component: Button },
@@ -23,7 +24,8 @@ let routes = [
   { path: '/input', component: Input },
   { path: '/tag', component: Tag },
   { path: '/divider', component: Divider },
-  { path: '/alert', component: Alert }
+  { path: '/alert', component: Alert },
+  { path: '/tooltip', component: Tooltip }
 ]
 
 let router = new VueRouter({
