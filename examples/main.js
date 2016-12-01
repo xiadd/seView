@@ -16,6 +16,7 @@ import Divider from 'views/Divider.vue'
 
 import Alert from 'views/Alert.vue'
 import Tooltip from 'views/Tooltip.vue'
+import Popover from 'views/Popover.vue'
 
 let routes = [
   { path: '/button', component: Button },
@@ -25,7 +26,8 @@ let routes = [
   { path: '/tag', component: Tag },
   { path: '/divider', component: Divider },
   { path: '/alert', component: Alert },
-  { path: '/tooltip', component: Tooltip }
+  { path: '/tooltip', component: Tooltip },
+  { path: '/popover', component: Popover }
 ]
 
 let router = new VueRouter({

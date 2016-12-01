@@ -4,6 +4,8 @@ import Tag from 'components/tag'
 import Divider from 'components/divider'
 import Input from 'components/input'
 import Alert from 'components/alert'
+import Tooltip from 'components/tooltip'
+import Popover from 'components/popover'
 
 const seView = {
   SeButton: Button,
@@ -13,7 +15,9 @@ const seView = {
   SeTag: Tag,
   SeDivider: Divider,
   SeInput: Input,
-  SeAlert: Alert
+  SeAlert: Alert,
+  SeTooltip: Tooltip,
+  sePopover: Popover
 }
 
 const install = function (Vue) {
