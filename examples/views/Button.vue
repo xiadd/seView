@@ -1,5 +1,5 @@
 <template>
-  <div class="">
+  <div class="ui container">
     <div class="show-button">
       <h4>基本按钮：</h4>
       <p>通过plain属性设置default或者basic按钮</p>
@@ -69,6 +69,10 @@
         <se-button icon="left arrow">prev</se-button>
         <se-button>next <i class="right arrow icon"></i></se-button>
       </button-group>
+    </div>
+    <div class="show-button">
+      <h4>长按钮</h4>
+      <se-button long>long</se-button>
     </div>
   </div>
 </template>

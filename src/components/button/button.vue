@@ -15,7 +15,11 @@ export default {
     },
     size: String,
     icon: String,
-    loading: false
+    loading: false,
+    long: {
+      type: Boolean,
+      default: false
+    }
   },
   computed: {
     classes() {
@@ -25,7 +29,8 @@ export default {
         this.icon ? 'icon' : '',
         this.loading ? 'loading' : '',
         {
-          'basic': this.plain
+          'basic': this.plain,
+          'fluid': !!this.long
         }
       ]
     }

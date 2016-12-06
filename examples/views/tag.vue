@@ -25,15 +25,26 @@
     <p>可以直接关闭，但是也给了回调函数close</p>
     <se-tag :closeable="true">closeable</se-tag>
     <se-tag :closeable="true" type="blue" @close="onClose">closeable</se-tag>
+    <h4>添加tag</h4>
+    <se-tag v-for="i in count" :closeable="true">tag{{i}}</se-tag>
+    <se-button size="mini" :plain="true" @click.native="addTag">+</se-button>
   </div>
 
 </template>
 
 <script>
 export default {
+  data() {
+    return {
+      count: 2
+    }
+  },
   methods: {
     onClose() {
       alert('closed')
+    },
+    addTag() {
+      this.count += 1
     }
   }
 }
